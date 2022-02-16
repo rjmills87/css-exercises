@@ -1,0 +1,23 @@
+/* styles.css */
+
+#no2 {
+    color: blue;
+    font-size: 36px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#no4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.pink-text {
+    background-color: #ffb7c9;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cooler-text {
+    font-size: 24px;
+}
