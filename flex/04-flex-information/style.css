@@ -2,12 +2,13 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
-.container {
+.container { 
   display: flex;
   justify-content: center;
   margin-top: 32px;
   column-gap: 52px;
 }
+
 
 .plant-one {
   display: flex;
